@@ -78,7 +78,7 @@ a:hover, a:active {
 }
 </style>
 <div class="footer">
-    Your Footer Content Goes Here
+    Crafted for Farmers with ❤️ By Indrajeet Jatin Aman Abhinav
 </div>
 """
 
