@@ -79,7 +79,7 @@ a:hover, a:active {
 }
 </style>
 <div class="footer">
-    Crafted for Farmers with ❤️ By Indrajeet Jatin Aman Abhinav
+    Crafted for Farmers with ❤️ By Indrajeet, Jatin, Aman, Abhinav
 </div>
 """
 
