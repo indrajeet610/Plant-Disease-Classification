@@ -72,9 +72,10 @@ a:hover, a:active {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: transparent;
-    color: black;
+    background-color: #333; /* Background color */
+    color: white; /* Text color */
     text-align: center;
+    padding: 10px; /* Add some padding for better visibility */
 }
 </style>
 <div class="footer">
