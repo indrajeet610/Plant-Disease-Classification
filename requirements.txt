@@ -97,3 +97,4 @@ websocket-client==1.6.4
 wheel==0.41.3
 widgetsnbextension==4.0.9
 streamlit
+tensorflow
